@@ -4,6 +4,7 @@ class ChessPiece
     @color = color
   end
 
+  ## Interface
   def movement
   end
 
